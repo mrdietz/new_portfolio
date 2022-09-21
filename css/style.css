@@ -139,7 +139,7 @@ body.border-dark .menu-btn > .lines > span{
 }
 .menu-items > li > a:hover{
 	color:#FFF;
-}
+}/*
 .main-content > .page-border{
 	position:absolute;
 	border:solid 1px #FFF;
@@ -148,7 +148,7 @@ body.border-dark .menu-btn > .lines > span{
 	-webkit-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	-moz-transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
 	transition:border-color 2.5s cubic-bezier(.785,.135,.15,.86);
-}
+}*/
 body.border-dark .main-content > .page-border{
 	border-color:#303F9F;
 }
@@ -225,6 +225,7 @@ body.section-switching .main-content:before,
 body.section-switching .main-content:after{
 	z-index:299;
 }
+
 body.border-dark .main-content:before,
 body.border-dark .main-content:after{
 	border-color:#303F9F;
